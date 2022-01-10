@@ -1,3 +1,3 @@
 # git_test
 
-Hi world
+This is a test repository
